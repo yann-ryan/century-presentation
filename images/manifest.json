@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2152,
+    "id" : "https://yann-ryan.github.io/century-presentation/images/decimal/canvas/",
+    "label" : {
+      "none" : [ "decimal" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://yann-ryan.github.io/century-presentation/images/decimal/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://yann-ryan.github.io/century-presentation/images/decimal/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 68,
+              "height" : 25
+            }, {
+              "width" : 135,
+              "height" : 50
+            }, {
+              "width" : 269,
+              "height" : 99
+            }, {
+              "width" : 538,
+              "height" : 197
+            }, {
+              "width" : 1076,
+              "height" : 393
+            }, {
+              "width" : 2152,
+              "height" : 786
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2152,
+            "@id" : "https://yann-ryan.github.io/century-presentation/images/decimal",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 786
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2152,
+          "id" : "https://yann-ryan.github.io/century-presentation/images/decimal/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 786
+        },
+        "target" : "https://yann-ryan.github.io/century-presentation/images/decimal/canvas/"
+      } ]
+    } ],
+    "height" : 786
+  }, {
     "width" : 700,
     "id" : "https://yann-ryan.github.io/century-presentation/images/WALL_ST._CYCLONE_LONDON_EARLY-35/canvas/",
     "label" : {
