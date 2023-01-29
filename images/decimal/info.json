@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 68,
+    "height" : 25
+  }, {
+    "width" : 135,
+    "height" : 50
+  }, {
+    "width" : 269,
+    "height" : 99
+  }, {
+    "width" : 538,
+    "height" : 197
+  }, {
+    "width" : 1076,
+    "height" : 393
+  }, {
+    "width" : 2152,
+    "height" : 786
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2152,
+  "@id" : "https://yann-ryan.github.io/century-presentation/images/decimal",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 786
+}
